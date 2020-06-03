@@ -3,9 +3,9 @@ Miaouh is a simple client/server chat write in python.
 
 # Usage
 1. Open new shell then setup the server
-`python server.py`
+`python Server.py`
 2. In a separate shell setup the client
-`python client.py`
+`python Client.py`
 
 The client.py is the first to start the discussion.
 The server is also a client but it handle the server socket.
